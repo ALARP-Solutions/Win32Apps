@@ -4,6 +4,3 @@
 [submodule "Apps/LogiOptionsPlus"]
 	path = Apps/LogiOptionsPlus
 	url = https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus.git
-[submodule "Apps/Obsidian"]
-	path = Apps/Obsidian
-	url = https://github.com/ALARP-Solutions/Win32-Obsidian
