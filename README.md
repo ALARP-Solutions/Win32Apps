@@ -43,9 +43,9 @@ Still having trouble or think better detail could be provided? Please [raise a n
 
 |  | App |
 | --- | --- |
-| <img src="Apps\LogiOptionsPlus\Icon.png" alt="Logo" width="80" height="80"> | Logi Options+ |
-| <img src="Apps\Obsidian\Icon.png" alt="Logo" width="80" height="80"> | Obsidian |
-| <img src="Apps\VSCode\Icon.png" alt="Logo" width="80" height="80"> | VS Code |
+| <img src="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus/blob/main/Icon.png" alt="Logo" width="80" height="80"> | Logi Options+ |
+| <img src="https://github.com/ALARP-Solutions/Win32-Obsidian/blob/master/Icon.png" alt="Logo" width="80" height="80"> | Obsidian |
+| <img src="https://github.com/ALARP-Solutions/Win32-VSCode/blob/master/Icon.png" alt="Logo" width="80" height="80"> | VS Code |
 
 
 ## Licence
