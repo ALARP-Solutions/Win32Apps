@@ -1,6 +1,0 @@
-[submodule "Apps/VSCode"]
-	path = Apps/VSCode
-	url = https://github.com/ALARP-Solutions/Win32-VSCode.git
-[submodule "Apps/LogiOptionsPlus"]
-	path = Apps/LogiOptionsPlus
-	url = https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus.git
