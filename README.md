@@ -41,11 +41,11 @@ Still having trouble or think better detail could be provided? Please [raise a n
 
 </div>
 
-|  | App |
-| --- | --- |
-| <img src="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus/blob/main/Icon.png" alt="Logo" width="80" height="80"> | Logi Options+ |
-| <img src="https://github.com/ALARP-Solutions/Win32-Obsidian/blob/main/Icon.png" alt="Logo" width="80" height="80"> | Obsidian |
-| <img src="https://github.com/ALARP-Solutions/Win32-VSCode/blob/main/Icon.png" alt="Logo" width="80" height="80"> | VS Code |
+| Icon | App | Description|
+| --- | --- | --- |
+| <img src="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus/blob/main/Icon.png" alt="Logo" width="80" height="80"> | Logi Options+ | Logi Options+ is a next-gen app that lets you manage and customize your supported mice and keyboards —so they all seamlessly work towards your goals. Combining the best features of Options with a brand new easy-to-use interface, Options+ is designed to transform your daily tasks. |
+| <img src="https://github.com/ALARP-Solutions/Win32-Obsidian/blob/main/Icon.png" alt="Logo" width="80" height="80"> | Obsidian | Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. |
+| <img src="https://github.com/ALARP-Solutions/Win32-VSCode/blob/main/Icon.png" alt="Logo" width="80" height="80"> | VS Code | Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity). |
 
 
 ## Licence
