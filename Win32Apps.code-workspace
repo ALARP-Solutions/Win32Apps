@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Index"
+		},
+		{
+			"path": "Apps\\LogiOptionsPlus",
+			"name": "Logi Options+"
+		},
+		{
+			"path": "Apps\\Obsidian",
+			"name": "Obsidian"
+		},
+		{
+			"path": "Apps\\VSCode",
+			"name": "VS Code"
+		}
+	],
+	"settings": {}
+}
