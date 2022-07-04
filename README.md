@@ -41,12 +41,50 @@ Still having trouble or think better detail could be provided? Please [raise a n
 
 </div>
 
-| Icon | App | Description|
-| --- | --- | --- |
-| <img src="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus/blob/main/Icon.png" alt="Logo" width="80" height="80"> | Logi Options+ | Logi Options+ is a next-gen app that lets you manage and customize your supported mice and keyboards —so they all seamlessly work towards your goals. Combining the best features of Options with a brand new easy-to-use interface, Options+ is designed to transform your daily tasks. |
-| <img src="https://github.com/ALARP-Solutions/Win32-Obsidian/blob/main/Icon.png" alt="Logo" width="80" height="80"> | Obsidian | Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. |
-| <img src="https://github.com/ALARP-Solutions/Win32-VSCode/blob/main/Icon.png" alt="Logo" width="80" height="80"> | VS Code | Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity). |
 
+<table width="100%">
+  <tr>
+      <td width="100px"><b>Icon</b></td>
+      <td width="15%"><b>App</b></td>
+      <td width="auto"><b>Description</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature"><img src="https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
+    </td>
+    <td><a href="https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature">Default Email Signature</a></td>
+    <td>
+      Installs a default, company branded email signature to Microsoft Outlook for Intune end users.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus"><img src="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
+    </td>
+    <td><a href="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus">Logi Options+</a></td>
+    <td>
+      Logi Options+ is a next-gen app that lets you manage and customize your supported mice and keyboards —so they all seamlessly work towards your goals. Combining the best features of Options with a brand new easy-to-use interface, Options+ is designed to transform your daily tasks.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ALARP-Solutions/Win32-Obsidian"><img src="https://github.com/ALARP-Solutions/Win32-Obsidian/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
+    </td>
+    <td> <a href="https://github.com/ALARP-Solutions/Win32-Obsidian">Obsidian</a> </td>
+    <td>
+      Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ALARP-Solutions/Win32-VSCode"><img src="https://github.com/ALARP-Solutions/Win32-VSCode/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
+    </td>
+    <td> <a href="https://github.com/ALARP-Solutions/Win32-VSCode">VS Code</a> </td>
+    <td>
+      Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
+    </td>
+  </tr>
+</table>
 
 ## Licence
 
@@ -55,6 +93,7 @@ Distributed under the MIT License. See [`LICENSE.md`](https://github.com/ALARP-S
 ## Acknowledgments
 
 - Project icon designed by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/free-icons/programming)
+- [Default Email Signature Project](https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature) icon designed by [srip](https://www.flaticon.com/authors/srip) from [Flaticon](https://www.flaticon.com/free-icons/signature)
 
 </br>
 <p align="center">(<a href="#top">back to top</a>)</p>
